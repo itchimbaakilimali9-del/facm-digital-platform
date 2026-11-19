@@ -1,0 +1,9 @@
+{
+  "appId": "com.facm.maniema.platform",
+  "appName": "FACM Digital Platform",
+  "webDir": "www",
+  "server": {
+    "url": "https://fcm-digital-premium-informetion.netlify.app/",
+    "cleartext": false
+  }
+}
